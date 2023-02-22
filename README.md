@@ -1,2 +1,2 @@
 # industrial_programment_practic
- Решения задач по дисциплине "индустриальное программирование"
+Repository for the university
