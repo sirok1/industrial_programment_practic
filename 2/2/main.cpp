@@ -31,9 +31,9 @@ int main() {
         cin >> r1, x1, y1;
         bool intersects = crc.check_circle(r1, x1, y1);
         if (intersects) {
-            cout << "The new circle intersects with circle" <<i<< endl;
+            cout << "The new circle intersects with circle " <<i<< endl;
         } else {
-            cout << "The new circle does not intersect with circle 1" <<i << endl;
+            cout << "The new circle does not intersect with circle " <<i << endl;
         }
     }
     return 0;
