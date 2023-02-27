@@ -8,3 +8,6 @@ add_executable(first_practice_first_task
 
 add_executable(first_practice_second_task
         2/2/circle.h 2/2/circle.cpp 2/2/main.cpp)
+
+add_executable(third_practice_third_task
+        2/3/figure.cpp 2/3/figure.h 2/3/main.cpp)

@@ -17,7 +17,8 @@ int main() {
         }
     }
     for (int i=0; i<3; i++) {
-        mas[i].show();
+        double* arr = mas[i].show();
+        cout << arr[0] << " " << arr[1] << " " << arr[2] << " " << endl;
         cout << "The perimeter of the triangle: " << mas[i].getPerimetr() << endl;
         cout << "The area of the triangle: " << mas[i].getSquare() << endl;
     }
