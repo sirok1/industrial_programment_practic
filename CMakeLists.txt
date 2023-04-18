@@ -9,5 +9,26 @@ add_executable(first_practice_first_task
 add_executable(first_practice_second_task
         2/2/circle.h 2/2/circle.cpp 2/2/main.cpp)
 
-add_executable(third_practice_third_task
+add_executable(first_practice_third_task
         2/3/figure.cpp 2/3/figure.h 2/3/main.cpp)
+
+add_executable(third_practice_first_task
+        3/1/eq2.cpp 3/1/eq2.h 3/1/main.cpp)
+
+add_executable(third_practice_second_task
+        3/2/rational.cpp 3/2/rational.h 3/2/main.cpp)
+
+add_executable(third_practice_third_task
+        3/3/main.cpp 3/3/rational.cpp 3/3/rational.h)
+
+add_executable(sixth_practice_first_task
+        6/1/main.cpp)
+
+add_executable(sixth_practice_second_task
+        6/2/main.cpp 6/2/cone.cpp 6/2/cone.h)
+
+add_executable(sixth_practice_third_task
+        6/3/main.cpp 6/3/bay.cpp 6/3/bay.h 6/3/ocean.cpp 6/3/ocean.h 6/3/sea.cpp 6/3/sea.h)
+
+add_executable(seventh_practice
+        7/main.cpp)

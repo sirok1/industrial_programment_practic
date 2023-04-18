@@ -14,6 +14,7 @@ int main() {
             cout << arr[0] << arr[1] << arr[2] << endl;
             cout << "There is no triangle with such sides, try again" << endl;
             i--;
+
         }
     }
     for (int i=0; i<3; i++) {
@@ -22,5 +23,4 @@ int main() {
         cout << "The perimeter of the triangle: " << mas[i].getPerimetr() << endl;
         cout << "The area of the triangle: " << mas[i].getSquare() << endl;
     }
-    return 0;
 }

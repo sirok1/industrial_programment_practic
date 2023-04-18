@@ -11,7 +11,7 @@ bool triangle::isTriangle() const {
     return ((first_side + second_side > third_side) && (second_side + third_side > first_side) && (first_side + third_side > second_side));
 }
 
-double *triangle::show() const {
+double* triangle::show() const {
     static double arr[3];
     arr[0] = first_side;
     arr[1] = second_side;
