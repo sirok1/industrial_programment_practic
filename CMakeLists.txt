@@ -31,4 +31,7 @@ add_executable(sixth_practice_third_task
         6/3/main.cpp 6/3/bay.cpp 6/3/bay.h 6/3/ocean.cpp 6/3/ocean.h 6/3/sea.cpp 6/3/sea.h)
 
 add_executable(seventh_practice
-        7/main.cpp)
+        7/main.cpp 7/type1.cpp 7/type1.h 7/type2.cpp 7/type2.h 7/sensor.cpp 7/sensor.h)
+
+add_executable(eighth_practice
+        8/main.cpp 8/type3.h 8/type3.cpp 8/type4.h 8/type4.cpp)
