@@ -35,3 +35,33 @@ add_executable(seventh_practice
 
 add_executable(eighth_practice
         8/main.cpp 8/type3.h 8/type3.cpp 8/type4.h 8/type4.cpp)
+
+add_executable(ninth_practice_first_task
+        9/1/main.cpp)
+
+add_executable(ninth_practice_second_task
+        9/2/main.cpp)
+
+add_executable(ninth_practice_third_task
+        9/3/main.cpp 9/3/set.cpp 9/3/set.h)
+
+add_executable(tenth_practice
+        10/main.cpp)
+
+add_executable(eleventh_practice
+        11/main.cpp)
+
+add_executable(twelfth_practice
+        12/main.cpp)
+
+add_executable(thirteenth_practice
+        13/main.cpp)
+
+add_executable(fourteenth_practice_first_task
+        14/1/main.cpp)
+
+add_executable(fourteenth_practice_second_task
+        14/2/Array.h 14/2/main.cpp)
+
+add_executable(fourteenth_practice_third_task
+        14/3/Set.h 14/3/main.cpp)
